@@ -1,0 +1,21 @@
+/* teg slectors */
+h1{
+  color: red;
+}
+img:hover{
+  background-color: blue;
+}
+/*class selectors*/
+.chicken{
+  background-color: green;
+}
+.broccoli{
+  background-color: red;
+}
+.chicken:hover{
+  background-color:#66bfbf;
+}
+/*id selectors*/
+#heading{
+  color: blue;
+}
